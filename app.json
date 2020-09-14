@@ -21,7 +21,7 @@
       "url": "heroku/jvm"
     },
     {
-      "url": "https://github.com/metabase/metabase-buildpack"
+      "url": "https://github.com/PollyEx/metabase-buildpack/tree/1.36.4"
     }
   ]
 }
